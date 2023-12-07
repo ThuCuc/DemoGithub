@@ -4,5 +4,7 @@ public class HelloGit {
 		System.out.println(" Author : Linus Torvald");
 		System.out.println(" Year : 2005");
 		System.out.println(" License : GPL2");
+		// thêm dòng trăng ngày 7/12/23
+
          	}	
 }
